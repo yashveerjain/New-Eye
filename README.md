@@ -3,6 +3,10 @@
 
 The project was developed to help the blind people to see the world, well litrary they will not see but hear.
 
+Device Image
+![](project_images/front_view.jpg)
+
+
 **Project Idea:**
 
 * *Navigation for the visually impaired is still a difficult task to be countered, even with current methodology and results in inconvenience and doesn’t efficiently battle impairment.*
